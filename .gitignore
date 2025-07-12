@@ -16,7 +16,7 @@ target/
 *.log
 
 # MongoDB URI file - DO NOT TRACK!
-/src/main/resources/application.properties
+src/main/resources/application.properties
 
 
 ### IntelliJ IDEA ###
